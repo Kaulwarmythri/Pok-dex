@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/pokémon"
+            android:title="@string/pokémon"/>
+        <item android:id="@+id/types"
+            android:title="@string/types"/>
+        <item android:id="@+id/items"
+            android:title="@string/items"/>
+        <item android:id="@+id/evolution_chain"
+            android:title="@string/evolution_chain"/>
+        <item android:id="@+id/stats"
+            android:title="@string/stats"/>
+        <item
+            android:id="@+id/regions"
+            android:title="@string/regions"/>
+    </group>
+
+    <item android:title="@string/save">
+        <menu>
+            <item android:id="@+id/favourite"
+                android:title="@string/favourite"
+                android:icon="@drawable/ic_favourite"
+                />
+        </menu>
+
+    </item>
+
+</menu>

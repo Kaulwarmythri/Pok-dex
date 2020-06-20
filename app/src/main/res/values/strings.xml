@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="pokémon">Pokémon</string>
+    <string name="types">Type</string>
+    <string name="items">Item</string>
+    <string name="evolution_chain">Evolution chain</string>
+    <string name="stats">Stat</string>
+    <string name="regions">Region</string>
+    <string name="favourite">Favourite</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="communicate">Communicate</string>
+    <string name="navigation_drawer_open">Open drawer layout</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="name">Name :</string>
+    <string name="base_experience">Base Experience :</string>
+    <string name="type">Type :</string>
+    <string name="moves">Moves :</string>
+    <string name="stat">Stats :</string>
+    <string name="search_by_id">Search by id</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+
+</resources>
